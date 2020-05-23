@@ -1,0 +1,2 @@
+decompile the jar file (used Procyon here)
+line 12-14 shows GoldenTicket2018@flare-on.com is the key
